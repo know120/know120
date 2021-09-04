@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Sujay Halder.
-- 👀 I’m interested in Data Analysis 
-- 🌱 I’m a final year B.Tech student 
+- 👀 Interested in Data Analysis  
 - 💞️ I’m looking to collaborate on ...
 - 📫 Here is my LinkedIn profile https://www.linkedin.com/in/sujayhalder
