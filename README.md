@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Sujay Halder.
 - 👀 Interested in Data Analysis  
 - 💞️ I’m looking to collaborate on ...
-- 📫 Here is my LinkedIn profile https://www.linkedin.com/in/sujayhalder
+- 📫 LinkedIn profile https://www.linkedin.com/in/sujayhalder
