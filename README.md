@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Sujay Halder
-### Full Stack .NET Developer | React
+### Full Stack Developer
 
 I'm a Full Stack Developer specializing in building scalable, high-performance web applications using the Microsoft stack and modern frontend frameworks.
 
