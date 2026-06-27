@@ -69,35 +69,6 @@ I build scalable, high-performance web applications from the ground up — archi
 
 ---
 
-## 📌 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🖥️ Interview Portal</h3>
-      <p align="center">
-        <a href="https://know120.github.io/#/tools/ai-interview" title="View Project">
-          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=know120&repo=know120&theme=react&bg_color=0d1117&hide_border=true&show_icons=true" alt="Project Card"/>
-        </a>
-        <br/>
-        <i>Full-stack application with JavaScript, React and Gemini</i>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🛠️ Portfolio</h3>
-      <p align="center">
-        <a href="https://know120.github.io" title="View Project">
-          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=know120&repo=know120&theme=react&bg_color=0d1117&hide_border=true&show_icons=true" alt="Project Card"/>
-        </a>
-        <br/>
-        <i>Portfolio site with React & TailwindCSS</i>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📫 Let's Connect
 
 <p align="center">
